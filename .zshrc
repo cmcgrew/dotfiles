@@ -134,8 +134,6 @@ function open-rent() {
     bw & gnome-calculator & google-chrome https://drive.google.com/drive/folders/1JQ94Mzk2rIo2rLwargqqhCT99PGY-1vh centurylink.com aps.com payonline.phoenix.gov
 }
 
-alias proj4='code ~/Documents/Udacity/Project4/cloud-developer/course-04/project'
-
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
