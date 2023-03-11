@@ -73,8 +73,8 @@
       "KC_LGUI",
       "KC_BSPC",
       "TO(3)",
+      "LALT(KC_F12)",
       "KC_RALT",
-      "KC_RGUI",
       "KC_M",
       "KC_RCTL"
     ],
@@ -145,8 +145,8 @@
       "KC_LGUI",
       "KC_BSPC",
       "TO(3)",
+      "LALT(KC_F12)",
       "KC_RALT",
-      "KC_RGUI",
       "KC_W",
       "KC_RCTL"
     ],
