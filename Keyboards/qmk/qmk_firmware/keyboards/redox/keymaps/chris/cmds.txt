@@ -1,0 +1,5 @@
+qmk json2c -o keymap.c default.json
+qmk flash -kb redox -km chris
+config add keymap.c default.json
+commit -m "chore: add updates to redox config for alt-f12"
+config push -f
